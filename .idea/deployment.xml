@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="g-workshop.ru">
+  <component name="PublishConfigData" serverName="g-workshop.ru" uploadOnCheckin="43e54ac6-81a9-4e2a-b79d-24006f09a7b5">
     <serverData>
       <paths name="g-workshop.ru">
         <serverdata>
           <mappings>
-            <mapping deploy="/var/www/html/sl-hub" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="g-workshop.ru" />
   </component>
 </project>

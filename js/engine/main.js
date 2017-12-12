@@ -1,3 +1,3 @@
 $( function() {
-    $( ".nav" ).tabs();
+    $( ".wrap" ).tabs();
 } );
