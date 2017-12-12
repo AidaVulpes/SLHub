@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="43e54ac6-81a9-4e2a-b79d-24006f09a7b5" name="g-workshop.ru" url="http://g-workshop.ru/sl-hub">
+        <fileTransfer host="g-workshop.ru" port="22" rootFolder="/var/www/html/sl-hub" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
